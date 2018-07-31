@@ -8,13 +8,12 @@ a {
     transform: translateZ(0);
 }
 
-   .project:hover {
+.project:hover {
     box-shadow: 0 0 20px blue;
     transition: all .3s ease-in-out; 
     transform: scale(1.05); 
     
 }
-
 
 #profile {
     box-shadow: 0 8px 6px -6px black;
@@ -24,23 +23,12 @@ a {
     box-shadow: 0 8px 6px -6px black;
 }
 
-/* .section-right-fact {
-    box-shadow: 0 8px 6px -6px black;
-} */
 #info {
-    /* font-family: 'Cabin', sans-serif; */
     font-family: 'Raleway', sans-serif;
 }
 
 .header{ 
     background-color: whitesmoke;
-    height: 27vh;
-    /* box-shadow: 3px 3px 5px 6px whitesmoke;  */
-    /* position: fixed;
-    top: 0;
-    width: 100%;
-    overflow: hidden;
-    z-index: 1 */
 }
 
 .connect {
@@ -57,14 +45,9 @@ a {
     font-weight: 700
 }
 
-/* body { 
-    padding-top: 210px; 
-} */
-
 .section-right-fact {
     height: 12vh;
     background-color: #5d45e4;
-    /* box-shadow: 3px 3px 5px 6px whitesmoke;  */
     font-family: 'Gaegu', cursive;
 }
 
@@ -77,12 +60,10 @@ a {
 .section-right-3 {
     height: 15vh;
     background-color: #5d45e4;
-    /* box-shadow: 3px 3px 5px 6px whitesmoke;  */
     font-family: 'Gaegu', cursive;
 }
 
 .section-left-project{ 
-    /* background-color: #ff912c; */
     height: 70vh;
     background-color: white;
 }
@@ -96,7 +77,6 @@ a {
 .footer {
     height: 10vh;
     background-color: #513cc5;
-    /* box-shadow: 3px 3px 5px 6px whitesmoke;  */
     font-family: 'Gaegu', cursive;
 }
 
